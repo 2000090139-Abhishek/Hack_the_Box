@@ -1,0 +1,25 @@
+In the first module, you will gain essential skills in the world of cybersecurity pen-testing. You'll start by learning how to connect to various services, such as FTP, SMB, Telnet, Rsync, and RDP anonymously. Next, you'll discover the power of Nmap, a valuable tool for identifying open ports on target systems, allowing you to assess their vulnerabilities. Lastly, you'll explore connecting to a MongoDB server, adding a valuable layer to your penetration testing knowledge. This module will lay a strong foundation for your journey into the realm of cybersecurity.
+
+A)Learn how to connect FTP, SMB, Telnet, Rsync and RDP anonymously.
+a) Meow
+ To attack the target machine, you must be on the same network.
+ Connect to the Starting Point VPN using one of the following options.
+
+	1. What service do we use to form our VPN connection into HTB labs?
+	Ans: openvpn
+	2. What tool do we use to test our connection to the target with an ICMP echo request?
+	Ans: ping
+			command:- ping 10.129.228.200
+	3. What is the name of the most common tool for finding open ports on a target?
+	Ans: nmap
+			command:- nmap 10.129.228.200
+	4. What service do we identify on port 23/tcp during our scans?
+	Ans: telnet
+		command :- telnet 10.129.228.200
+	5. What username is able to log into the target over telnet with a blank password?
+	Ans: root
+		After login:
+			ls
+				Answer:- flag.txt 
+			cat flag.txt
+				copy flag
