@@ -47,12 +47,13 @@ b) Fawn
 	Task 8:-What is the response code we get for the FTP message 'Login successful'?
 	Ans:- 230
 
-Broken Access control
-Cryptographic Falliure
-Injection 
-Security misconfiguration
-vulnerable & outdated components
-Identifica
+1)Broken Access control
+2)Cryptographic Falliure
+3)Injection 
+4)Security misconfiguration
+5)vulnerable & outdated components
+6)Identification and Authentication Faillures
+7)Software and data integrity faillures
 
 	
 B)Learn how to use Nmap to identify open ports.
