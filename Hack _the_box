@@ -48,6 +48,7 @@ b) Fawn
 	Ans:- 230
 
 1)Broken Access control
+	Broken Access Control is a critical security flaw where systems fail to enforce proper restrictions on what authenticated users can access or do. This lapse allows unauthorized users to exploit vulnerabilities and gain access to sensitive data or perform actions beyond their intended permissions. Common examples include direct object reference, insecure parameter manipulation, and privilege escalation. To mitigate this risk, developers must implement robust access controls, adhere to the principle of least privilege, and conduct regular security testing to identify and address vulnerabilities.
 2)Cryptographic Falliure
 3)Injection 
 4)Security misconfiguration
