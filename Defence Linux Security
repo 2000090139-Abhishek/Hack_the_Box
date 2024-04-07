@@ -1,6 +1,22 @@
 Defence Linux Security
 
 🔹Firewalls
+   A firewall acts as a barrier
+   between a trusted internal
+   network and untrusted external 
+   networks, like the internet. 
+  It monitors and controls incoming
+  and outgoing network traffic based
+  on predetermined security rules.
+  By filtering data packets,
+  it helps prevent unauthorized access 
+  and protects against malicious threats,
+  such as hacking and malware.
+  Firewalls can be hardware-based,
+  software-based, or a combination of
+  both, and they are a crucial 
+  component of network security 
+  strategies.
 🔹Sandboxing
 🔹Intrusion Detection
 🔹Log Monitoring
